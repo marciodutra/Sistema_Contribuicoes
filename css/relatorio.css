@@ -1,0 +1,31 @@
+#data_relatorio{
+    padding-top: 50px;
+}
+#relatorio{
+    padding-top: 1px;
+}
+#voltar{
+    padding-bottom: 30px;
+}
+#erro_datas{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+/*DESATIVAR CLIQUE DO MOUSE SOBRE OS INPUTS*/
+#data_inicio_relatorio{
+    pointer-events: none;
+}
+#data_fim_relatorio{
+    pointer-events: none;
+}
+#valor_contribuicao{
+    pointer-events: none;
+}
+#numero_contribuicoes{
+    pointer-events: none;
+}
+#soma_contribuicoes{
+    pointer-events: none;
+}
+/*DESATIVAR CLIQUE DO MOUSE SOBRE OS INPUTS*/

@@ -1,0 +1,73 @@
+#tabela-de-navegacao{
+    padding-top: 20px;
+}
+
+#titulo{
+    padding-top: 20px;
+}
+
+#obrig-nome, #obrig-telefone, #obrig-apelido{
+    background-color: #06a706;
+    color:white;
+}
+
+/*FAZ UM SCROLL NA VERTICAL NA PAGINA ESPECIFICA*/
+#visualizar_contribuidores, #visualizar_contribuicoes, #registro_sorteios{
+    overflow-y: auto;
+    height: 550px;
+}
+#visualizar_contribuicoes{
+    height: 400px!important;
+}
+#visualizar{
+    padding-top: 20px;
+}
+
+#barra_baixo{
+    height: 38px;
+}
+
+#barra_baixo_cadastro{
+    margin-top: 118px;
+}
+
+#footer_contribuicoes_mes{
+    margin-top: 20px;
+}
+
+#input-contribuir{
+    width: 150px;
+}
+
+#imprimir_relatorio{
+    padding-right: 20px;
+}
+
+#btn-imprimir-relatorio{
+    padding-right: 30px;
+}
+
+#erro_busca{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+#content h2{
+    padding-top: 10px;
+}
+
+
+/*DESATIVAR INPUT DDOS IDS*/
+#valor{
+    pointer-events: none;
+}
+/*DESATIVAR INPUT DDOS IDS*/
+
+
+/*BOOTSTRAP*/
+.nav-item{
+    padding-left: 10px;
+}
+.navbar{
+    background-color: #d6d8db;
+}
+/*BOOTSTRAP*/
